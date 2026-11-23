@@ -1,18 +1,18 @@
 # Rahul Pandey
 
-Senior Security Engineer at Alacriti. I work on product security for payment systems: how they are built, how they are monitored, and what happens when a control fails.
+I work on detection engineering, cloud security, and how agentic systems fail. I also write about anonymity, the dark web, and the time between a vulnerability existing and someone noticing it.
 
-Based in the New York City area. I was a security analyst on the same product from 2021 to 2024, then completed an M.S. in Cybersecurity and Information Assurance at the University of Central Missouri.
+Based in the New York City area. M.S. in Cybersecurity and Information Assurance, University of Central Missouri.
 
 ## What I spend time on
 
-**Product security.** Vulnerability management, secure development, and PCI DSS controls on software that moves payments.
+**Detection engineering.** Turning attacker behavior into rules other people can run. Upstream right now: a Linux NetworkManager hotspot rule in [SigmaHQ/sigma#5255](https://github.com/SigmaHQ/sigma/pull/5255).
 
-**Cloud security.** AWS identity, detection, and hardening. Certified AWS Security Specialty and SysOps Administrator.
+**Cloud security.** AWS identity, detection, and hardening. AWS Certified Security Specialty and SysOps Administrator.
 
-**Detection engineering.** Turning attacker behavior into rules other teams can run. Upstream right now: a Linux NetworkManager hotspot rule in [SigmaHQ/sigma#5255](https://github.com/SigmaHQ/sigma/pull/5255).
+**Agentic AI and LLM security.** How voice agents and models fail, and how to test that before it becomes an incident.
 
-**Agentic AI and LLM security.** How voice agents and models fail, and how to test that before it ships.
+**Research.** Cyber threat intelligence, lost anonymity, and fraud detection in digital banking.
 
 ## Writing
 
@@ -28,9 +28,9 @@ Also published: *AI-Driven Fraud Detection and Transaction Security Framework fo
 
 ## On GitHub
 
-- [XSS-cheatsheet](https://github.com/rahulisationn/XSS-cheatsheet) — payloads and bypasses I use for web application testing
+- [XSS-cheatsheet](https://github.com/rahulisationn/XSS-cheatsheet) — payloads and bypasses for web application testing
 - [BugBountyDorks](https://github.com/rahulisationn/BugBountyDorks) — search queries for exposed assets
-- [rahulisation](https://rahulisationn.github.io/rahulisation/) — the longer version of the analyst work
+- [rahulisation](https://rahulisationn.github.io/rahulisation/) — longer notes and a list of the writing
 
 ## Credentials
 
