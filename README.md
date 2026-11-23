@@ -1,5 +1,7 @@
 # Rahul Pandey
 
+Senior Security Engineer.
+
 I work on detection engineering, cloud security, and how agentic systems fail. I also write about anonymity, the dark web, and the time between a vulnerability existing and someone noticing it.
 
 Based in the New York City area. M.S. in Cybersecurity and Information Assurance, University of Central Missouri.
